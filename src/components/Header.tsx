@@ -18,7 +18,7 @@ const Header: React.FC = () => {
   };
 
   return (
-    <header className="bg-gray-800 text-white p-2 text-center">
+    <header className="bg-gray-800 text-white p-2 text-center w-screen">
     <h1 className="text-lg font-bold">
       {formatPath(currentPath) === 'Home' ? 'CHART & MAP' : formatPath(currentPath).toUpperCase()}
     </h1>
