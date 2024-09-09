@@ -73,6 +73,7 @@ This endpoint returns an array of objects, each containing country-specific info
 
 ## 3. URL: https://disease.sh/v3/covid-19/all
 
+````
     {
         total:Number,
         active:Number,
@@ -80,3 +81,6 @@ This endpoint returns an array of objects, each containing country-specific info
         recovered:Number
         ...
     }
+    
+````
+    
