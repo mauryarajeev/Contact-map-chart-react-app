@@ -4,7 +4,7 @@ This is a COVID-19 dashboard application that provides information about active 
 
 ### 1. Deployment link
 
-- **URL**: [https://toiya-assigment.vercel.app/)
+- **URL**: [https://contact-map-chart-react-app.vercel.app/contacts)
 
 
 ## Getting Started
