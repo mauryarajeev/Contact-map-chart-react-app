@@ -53,7 +53,7 @@ recovered: {
 
 ````
 
-````
+ 
 ### 2. Country-Specific COVID-19 Information
 - **URL**: [https://disease.sh/v3/covid-19/countries](https://disease.sh/v3/covid-19/countries)
 This endpoint returns an array of objects, each containing country-specific information regarding COVID-19. Each object includes the following details:
@@ -67,7 +67,7 @@ This endpoint returns an array of objects, each containing country-specific info
         // ...
     },
     // ...
-]```
+]  ```
 
 ## GET request return object containing world wide information regarding covid 19
 
